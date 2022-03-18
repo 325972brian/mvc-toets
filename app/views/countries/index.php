@@ -15,7 +15,7 @@ td, th {
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: #A9A9A9;
 }
 </style>
 </head>
@@ -57,6 +57,7 @@ foreach ($data['users'] as $country){
     <div class="col-12" id="header-text" style="">
     <h1 style="padding-bottom: 20px; padding-top: 100px;">
     <center>Landenoverzicht </center>
+    <img src="globe.png" alt="..." class="img-thumbnail">
             </h1>
     </div>
 
